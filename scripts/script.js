@@ -14,7 +14,7 @@ function startGame() {
     const gameContainer = document.getElementById('gameContainer');
 
       
-    // Update the instructions to show 40 hearts
+    // Update the instructions to show 100 hearts
     document.querySelector('.instructions').textContent = 'Catch 100 hearts to reveal my answer!';
     
     // Player movement
